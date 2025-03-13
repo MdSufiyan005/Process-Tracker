@@ -133,3 +133,118 @@ Timestamp,Event,Process Name,Window Title,PID,Local IP,Remote IP,Action Taken,De
 13-03-2025 16:14:15,Mouse Click,,,,,,Mouse Released,"(900, 871)"
 13-03-2025 16:14:15,Keypress,Cursor.exe,main.py - demo - Cursor,,,,Key pressed,Key.esc
 13-03-2025 16:14:15,Termination requested,Cursor.exe,main.py - demo - Cursor,,,,Terminating,Termination key pressed
+13-03-2025 16:37:04,Monitoring Started,,,,,,System initialized,
+13-03-2025 16:37:04,Window switch,Cursor.exe,input_monitor.py - demo - Cursor,,,,Suspicious activity detected,
+13-03-2025 16:37:09,Network Activity,SearchHost.exe,,12292,192.168.0.102,40.104.56.210,Monitored,Process 'SearchHost.exe' connected to 40.104.56.210 (Unknown)
+13-03-2025 16:37:14,Network Activity,wslservice.exe,,13424,192.168.0.102,172.64.149.23,Monitored,Process 'wslservice.exe' connected to 172.64.149.23 (Unknown)
+13-03-2025 16:37:14,Network Activity,SearchHost.exe,,12292,192.168.0.102,54.182.1.113,Monitored,Process 'SearchHost.exe' connected to 54.182.1.113 (server-54-182-1-113.bom52.r.cloudfront.net)
+13-03-2025 16:37:18,Network Activity,WhatsApp.exe,,13108,192.168.0.102,1.23.32.35,Monitored,Process 'WhatsApp.exe' connected to 1.23.32.35 (Unknown)
+13-03-2025 16:37:18,Mouse Click,Cursor.exe,input_monitor.py - demo - Cursor,,,,Mouse Pressed,"(1053, 1045)"
+13-03-2025 16:37:18,Mouse Click,explorer.exe,,,,,Mouse Released,"(1053, 1045)"
+13-03-2025 16:37:18,Network Activity,WhatsApp.exe,,13108,192.168.0.102,57.144.125.32,Monitored,Process 'WhatsApp.exe' connected to 57.144.125.32 (whatsapp-cdn-shv-03-bom2.fbcdn.net)
+13-03-2025 16:37:18,Network Activity,WhatsApp.exe,,13108,192.168.0.102,163.70.143.60,Monitored,Process 'WhatsApp.exe' connected to 163.70.143.60 (whatsapp-cdn-shv-01-bom2.fbcdn.net)
+13-03-2025 16:37:18,Network Activity,brave.exe,,8548,192.168.0.102,142.251.42.78,Monitored,Process 'brave.exe' connected to 142.251.42.78 (bom12s21-in-f14.1e100.net)
+13-03-2025 16:37:18,Network Activity,WhatsApp.exe,,13108,192.168.0.102,163.70.144.60,Monitored,Process 'WhatsApp.exe' connected to 163.70.144.60 (whatsapp-cdn-shv-02-bom2.fbcdn.net)
+13-03-2025 16:37:23,Network Activity,brave.exe,,8548,192.168.0.102,172.64.155.209,Monitored,Process 'brave.exe' connected to 172.64.155.209 (Unknown)
+13-03-2025 16:37:23,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Pressed,"(870, 203)"
+13-03-2025 16:37:23,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Released,"(870, 203)"
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'m'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'a'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'n'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'s'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'d'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'a'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'s'
+13-03-2025 16:37:23,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'d'
+13-03-2025 16:37:23,Network Activity,Cursor.exe,,16828,192.168.0.102,34.197.205.171,Monitored,Process 'Cursor.exe' connected to 34.197.205.171 (ec2-34-197-205-171.compute-1.amazonaws.com)
+13-03-2025 16:37:23,Network Activity,SearchHost.exe,,12292,192.168.0.102,108.158.49.186,Monitored,Process 'SearchHost.exe' connected to 108.158.49.186 (server-108-158-49-186.bom78.r.cloudfront.net)
+13-03-2025 16:37:28,Network Activity,wslservice.exe,,13424,192.168.0.102,104.18.38.233,Monitored,Process 'wslservice.exe' connected to 104.18.38.233 (Unknown)
+13-03-2025 16:37:33,Network Activity,svchost.exe,,5680,192.168.0.102,172.172.255.218,Monitored,Process 'svchost.exe' connected to 172.172.255.218 (Unknown)
+13-03-2025 16:37:33,Network Activity,mysqld.exe,,6784,127.0.0.1,127.0.0.1,Monitored,Process 'mysqld.exe' connected to 127.0.0.1 (kubernetes.docker.internal)
+13-03-2025 16:37:35,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Pressed,"(864, 328)"
+13-03-2025 16:37:35,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Released,"(864, 328)"
+13-03-2025 16:37:37,Network Activity,Cursor.exe,,12576,192.168.0.102,104.18.18.125,Monitored,Process 'Cursor.exe' connected to 104.18.18.125 (Unknown)
+13-03-2025 16:37:37,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Pressed,"(563, 310)"
+13-03-2025 16:37:37,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Released,"(563, 310)"
+13-03-2025 16:37:37,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Pressed,"(578, 196)"
+13-03-2025 16:37:37,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Released,"(578, 196)"
+13-03-2025 16:37:37,Network Activity,svchost.exe,,4504,192.168.0.102,23.10.239.251,Monitored,Process 'svchost.exe' connected to 23.10.239.251 (a23-10-239-251.deploy.static.akamaitechnologies.com)
+13-03-2025 16:37:40,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Pressed,"(928, 189)"
+13-03-2025 16:37:40,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Released,"(928, 189)"
+13-03-2025 16:37:42,Network Activity,StartMenuExperienceHost.exe,,14740,192.168.0.102,20.24.249.45,Monitored,Process 'StartMenuExperienceHost.exe' connected to 20.24.249.45 (Unknown)
+13-03-2025 16:37:42,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Pressed,"(1834, 70)"
+13-03-2025 16:37:42,Mouse Click,ApplicationFrameHost.exe,WhatsApp,,,,Mouse Released,"(1834, 70)"
+13-03-2025 16:37:42,Network Activity,brave.exe,,8548,192.168.0.102,142.250.182.206,Monitored,Process 'brave.exe' connected to 142.250.182.206 (bom07s28-in-f14.1e100.net)
+13-03-2025 16:37:42,Network Activity,svchost.exe,,4504,192.168.0.102,142.250.70.35,Monitored,Process 'svchost.exe' connected to 142.250.70.35 (pnbomb-aa-in-f3.1e100.net)
+13-03-2025 16:37:42,Network Activity,SearchHost.exe,,12292,192.168.0.102,18.239.151.210,Monitored,Process 'SearchHost.exe' connected to 18.239.151.210 (server-18-239-151-210.bom54.r.cloudfront.net)
+13-03-2025 16:37:42,Network Activity,Unknown,,13108,192.168.0.102,57.144.177.32,Monitored,Process 'Unknown' connected to 57.144.177.32 (whatsapp-cdn-shv-04-bom2.fbcdn.net)
+13-03-2025 16:37:42,Network Activity,Unknown,,13108,192.168.0.102,31.13.79.53,Monitored,Process 'Unknown' connected to 31.13.79.53 (whatsapp-cdn-shv-02-bom1.fbcdn.net)
+13-03-2025 16:37:45,Mouse Click,explorer.exe,,,,,Mouse Pressed,"(118, 202)"
+13-03-2025 16:37:45,Mouse Click,Cursor.exe,input_monitor.py - demo - Cursor,,,,Mouse Released,"(118, 202)"
+13-03-2025 16:37:47,Network Activity,SearchHost.exe,,12292,192.168.0.102,204.79.197.222,Monitored,Process 'SearchHost.exe' connected to 204.79.197.222 (Unknown)
+13-03-2025 16:37:51,Network Activity,SearchHost.exe,,12292,192.168.0.102,13.107.19.254,Monitored,Process 'SearchHost.exe' connected to 13.107.19.254 (Unknown)
+13-03-2025 16:37:51,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(732, 556)"
+13-03-2025 16:37:55,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(828, 552)"
+13-03-2025 16:37:55,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(859, 550)"
+13-03-2025 16:37:55,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(945, 551)"
+13-03-2025 16:37:55,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(988, 545)"
+13-03-2025 16:37:56,Network Activity,MpDefenderCoreService.exe,,4336,192.168.0.102,20.50.73.4,Monitored,Process 'MpDefenderCoreService.exe' connected to 20.50.73.4 (Unknown)
+13-03-2025 16:37:56,Network Activity,brave.exe,,8548,192.168.0.102,140.82.113.26,Monitored,Process 'brave.exe' connected to 140.82.113.26 (lb-140-82-113-26-iad.github.com)
+13-03-2025 16:37:56,Network Activity,Unknown,,13108,192.168.0.102,157.240.242.60,Monitored,Process 'Unknown' connected to 157.240.242.60 (whatsapp-cdn-shv-01-pnq1.fbcdn.net)
+13-03-2025 16:38:00,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(1232, 549)"
+13-03-2025 16:38:00,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(1318, 556)"
+13-03-2025 16:38:00,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(1438, 553)"
+13-03-2025 16:38:00,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(1467, 551)"
+13-03-2025 16:38:00,Network Activity,MpDefenderCoreService.exe,,4336,192.168.0.102,52.123.129.14,Monitored,Process 'MpDefenderCoreService.exe' connected to 52.123.129.14 (Unknown)
+13-03-2025 16:38:00,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(1533, 553)"
+13-03-2025 16:38:00,Network Activity,Unknown,,13108,192.168.0.102,157.240.16.52,Monitored,Process 'Unknown' connected to 157.240.16.52 (whatsapp-cdn-shv-01-bom1.fbcdn.net)
+13-03-2025 16:38:05,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(1025, 547)"
+13-03-2025 16:38:05,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(1025, 547)"
+13-03-2025 16:38:05,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Pressed,"(931, 906)"
+13-03-2025 16:38:05,Mouse Click,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Mouse Released,"(931, 906)"
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:38:05,Network Activity,Cursor.exe,,12576,192.168.0.102,104.18.19.125,Monitored,Process 'Cursor.exe' connected to 104.18.19.125 (Unknown)
+13-03-2025 16:38:05,Network Activity,svchost.exe,,4504,192.168.0.102,23.57.240.163,Monitored,Process 'svchost.exe' connected to 23.57.240.163 (a23-57-240-163.deploy.static.akamaitechnologies.com)
+13-03-2025 16:38:09,Keypress,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Key pressed,Key.esc
+13-03-2025 16:38:09,Termination requested,Cursor.exe,combined_activity_log.csv - demo - Cursor,,,,Terminating,Termination key pressed
+13-03-2025 16:38:09,Network Activity,WhatsApp.exe,,13328,192.168.0.102,163.70.144.61,Monitored,Process 'WhatsApp.exe' connected to 163.70.144.61 (whatsapp-chatd-edge-shv-02-bom2.facebook.com)
+13-03-2025 16:38:09,Monitoring Stopped,,,,,,User terminated,
