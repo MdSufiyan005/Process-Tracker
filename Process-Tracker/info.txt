@@ -1,0 +1,7 @@
+config.py – Contains configuration variables and global shared data.
+logger.py – Handles CSV initialization and logging events.
+screenshot.py – Contains the screenshot function.
+window_monitor.py – Provides functions to get the active window and detect window/tab switches.
+network_monitor.py – Monitors network activity.
+input_monitor.py – Handles keyboard and mouse events including termination.
+main.py – Imports all modules, starts the threads and listeners, and ties everything together.

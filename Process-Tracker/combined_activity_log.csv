@@ -1,0 +1,135 @@
+Timestamp,Event,Process Name,Window Title,PID,Local IP,Remote IP,Action Taken,Details
+13-03-2025 16:07:18,Monitoring Started,,,,,,System initialized,
+13-03-2025 16:07:18,Window switch,Cursor.exe,config.py - demo - Cursor,,,,Suspicious activity detected,
+13-03-2025 16:07:23,Network Activity,MpDefenderCoreService.exe,,4336,192.168.0.102,20.189.173.1,Monitored,Process 'MpDefenderCoreService.exe' connected to 20.189.173.1 (Unknown)
+13-03-2025 16:07:23,Network Activity,Cursor.exe,,12176,192.168.0.102,3.231.66.58,Monitored,Process 'Cursor.exe' connected to 3.231.66.58 (ec2-3-231-66-58.compute-1.amazonaws.com)
+13-03-2025 16:07:23,Network Activity,WhatsApp.exe,,17208,192.168.0.102,163.70.144.61,Monitored,Process 'WhatsApp.exe' connected to 163.70.144.61 (whatsapp-chatd-edge-shv-02-bom2.facebook.com)
+13-03-2025 16:07:23,Network Activity,mysqld.exe,,6784,127.0.0.1,127.0.0.1,Monitored,Process 'mysqld.exe' connected to 127.0.0.1 (kubernetes.docker.internal)
+13-03-2025 16:07:28,Network Activity,SearchHost.exe,,12292,192.168.0.102,40.104.56.210,Monitored,Process 'SearchHost.exe' connected to 40.104.56.210 (Unknown)
+13-03-2025 16:07:33,Network Activity,Cursor.exe,,12176,192.168.0.102,104.18.19.125,Monitored,Process 'Cursor.exe' connected to 104.18.19.125 (Unknown)
+13-03-2025 16:07:37,Network Activity,StartMenuExperienceHost.exe,,14740,192.168.0.102,20.24.249.45,Monitored,Process 'StartMenuExperienceHost.exe' connected to 20.24.249.45 (Unknown)
+13-03-2025 16:07:42,Network Activity,Cursor.exe,,12176,192.168.0.102,104.18.18.125,Monitored,Process 'Cursor.exe' connected to 104.18.18.125 (Unknown)
+13-03-2025 16:07:42,Mouse Click,,,,,,Mouse Pressed,"(1195, 1050)"
+13-03-2025 16:07:42,Mouse Click,,,,,,Mouse Released,"(1195, 1050)"
+13-03-2025 16:07:42,Mouse Click,,,,,,Mouse Pressed,"(1833, 0)"
+13-03-2025 16:07:42,Mouse Click,,,,,,Mouse Released,"(1833, 0)"
+13-03-2025 16:07:42,Mouse Click,,,,,,Mouse Pressed,"(1603, 891)"
+13-03-2025 16:07:43,Mouse Click,,,,,,Mouse Released,"(1603, 891)"
+13-03-2025 16:07:46,Network Activity,svchost.exe,,5680,192.168.0.102,172.172.255.218,Monitored,Process 'svchost.exe' connected to 172.172.255.218 (Unknown)
+13-03-2025 16:07:46,Mouse Click,,,,,,Mouse Pressed,"(1629, 31)"
+13-03-2025 16:07:46,Mouse Click,,,,,,Mouse Released,"(1629, 31)"
+13-03-2025 16:07:46,Network Activity,brave.exe,,8548,192.168.0.102,142.250.182.206,Monitored,Process 'brave.exe' connected to 142.250.182.206 (bom07s28-in-f14.1e100.net)
+13-03-2025 16:07:48,Network Activity,brave.exe,,8548,192.168.0.102,142.251.42.78,Monitored,Process 'brave.exe' connected to 142.251.42.78 (bom12s21-in-f14.1e100.net)
+13-03-2025 16:07:50,Mouse Click,,,,,,Mouse Pressed,"(1408, 15)"
+13-03-2025 16:07:50,Mouse Click,,,,,,Mouse Released,"(1408, 15)"
+13-03-2025 16:07:50,Mouse Click,,,,,,Mouse Pressed,"(1191, 430)"
+13-03-2025 16:07:50,Mouse Click,,,,,,Mouse Released,"(1191, 430)"
+13-03-2025 16:07:51,Network Activity,brave.exe,,8548,192.168.0.102,34.111.97.67,Monitored,Process 'brave.exe' connected to 34.111.97.67 (67.97.111.34.bc.googleusercontent.com)
+13-03-2025 16:07:53,Mouse Click,,,,,,Mouse Pressed,"(1156, 355)"
+13-03-2025 16:07:53,Mouse Click,,,,,,Mouse Released,"(1799, 701)"
+13-03-2025 16:07:53,Mouse Click,,,,,,Mouse Pressed,"(1799, 701)"
+13-03-2025 16:07:53,Mouse Click,,,,,,Mouse Released,"(1799, 701)"
+13-03-2025 16:07:58,Mouse Click,,,,,,Mouse Pressed,"(1826, 717)"
+13-03-2025 16:07:58,Mouse Click,,,,,,Mouse Released,"(1162, 350)"
+13-03-2025 16:07:58,Keypress,brave.exe,JavaScript | MDN - Brave,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:07:58,Keypress,brave.exe,JavaScript | MDN - Brave,,,,Key pressed,'\x03'
+13-03-2025 16:07:58,Mouse Click,,,,,,Mouse Pressed,"(1758, 38)"
+13-03-2025 16:07:58,Mouse Click,,,,,,Mouse Released,"(1758, 38)"
+13-03-2025 16:08:05,Network Activity,brave.exe,,8548,192.168.0.102,142.250.192.46,Monitored,Process 'brave.exe' connected to 142.250.192.46 (bom12s15-in-f14.1e100.net)
+13-03-2025 16:08:11,Mouse Click,,,,,,Mouse Pressed,"(1025, 484)"
+13-03-2025 16:08:11,Mouse Click,,,,,,Mouse Released,"(1025, 484)"
+13-03-2025 16:08:11,Keypress,Cursor.exe,config.py - demo - Cursor,,,,Key pressed,Key.enter
+13-03-2025 16:08:11,Keypress,Cursor.exe,config.py - demo - Cursor,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:08:11,Keypress,Cursor.exe,config.py - demo - Cursor,,,,Key pressed,'\x16'
+13-03-2025 16:08:11,Network Activity,Cursor.exe,,13932,192.168.0.102,44.212.122.221,Monitored,Process 'Cursor.exe' connected to 44.212.122.221 (ec2-44-212-122-221.compute-1.amazonaws.com)
+13-03-2025 16:08:18,Mouse Click,,,,,,Mouse Pressed,"(1344, 888)"
+13-03-2025 16:08:18,Mouse Click,,,,,,Mouse Released,"(919, 818)"
+13-03-2025 16:08:18,Mouse Click,,,,,,Mouse Pressed,"(1024, 893)"
+13-03-2025 16:08:18,Mouse Click,,,,,,Mouse Released,"(1024, 893)"
+13-03-2025 16:08:18,Mouse Click,,,,,,Mouse Pressed,"(1097, 915)"
+13-03-2025 16:08:18,Mouse Click,,,,,,Mouse Released,"(1016, 905)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Pressed,"(1108, 935)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Released,"(1108, 935)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Pressed,"(841, 824)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Released,"(1035, 826)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Pressed,"(1045, 920)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Released,"(1045, 920)"
+13-03-2025 16:08:23,Mouse Click,,,,,,Mouse Pressed,"(1045, 920)"
+13-03-2025 16:08:28,Mouse Click,,,,,,Mouse Released,"(1045, 920)"
+13-03-2025 16:08:28,Mouse Click,,,,,,Mouse Pressed,"(1045, 920)"
+13-03-2025 16:08:28,Mouse Click,,,,,,Mouse Released,"(1045, 920)"
+13-03-2025 16:08:28,Mouse Click,,,,,,Mouse Pressed,"(1137, 760)"
+13-03-2025 16:08:28,Mouse Click,,,,,,Mouse Released,"(1137, 760)"
+13-03-2025 16:08:28,Mouse Click,,,,,,Mouse Pressed,"(1158, 481)"
+13-03-2025 16:08:33,Mouse Click,,,,,,Mouse Released,"(358, 407)"
+13-03-2025 16:08:33,Keypress,Cursor.exe,config.py - demo - Cursor,,,,Key pressed,Key.backspace
+13-03-2025 16:08:39,Network Activity,Cursor.exe,,12176,192.168.0.102,20.189.173.15,Monitored,Process 'Cursor.exe' connected to 20.189.173.15 (Unknown)
+13-03-2025 16:08:48,Mouse Click,,,,,,Mouse Pressed,"(1171, 1059)"
+13-03-2025 16:08:48,Mouse Click,,,,,,Mouse Released,"(1171, 1059)"
+13-03-2025 16:08:48,Mouse Click,,,,,,Mouse Pressed,"(1807, 17)"
+13-03-2025 16:08:48,Mouse Click,,,,,,Mouse Released,"(1807, 17)"
+13-03-2025 16:08:53,Mouse Click,,,,,,Mouse Pressed,"(286, 0)"
+13-03-2025 16:08:53,Mouse Click,,,,,,Mouse Released,"(286, 0)"
+13-03-2025 16:08:53,Keypress,brave.exe,Meet - dgs-drts-jsw - Brave,,,,Key pressed,Key.space
+13-03-2025 16:08:53,Keypress,brave.exe,Meet - dgs-drts-jsw - Brave,,,,Key pressed,Key.space
+13-03-2025 16:08:53,Mouse Click,,,,,,Mouse Pressed,"(29, 0)"
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Released,"(29, 0)"
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Pressed,"(316, 0)"
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Released,"(316, 0)"
+13-03-2025 16:09:02,Keypress,brave.exe,Meet - dgs-drts-jsw - Brave,,,,Key pressed,Key.space
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Pressed,"(1231, 1045)"
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Released,"(1231, 1045)"
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Pressed,"(656, 68)"
+13-03-2025 16:09:02,Mouse Click,,,,,,Mouse Released,"(656, 68)"
+13-03-2025 16:09:02,Network Activity,brave.exe,,8548,192.168.0.102,142.250.71.110,Monitored,Process 'brave.exe' connected to 142.250.71.110 (pnbomb-ad-in-f14.1e100.net)
+13-03-2025 16:09:10,Monitoring Stopped,,,,,,User terminated,
+13-03-2025 16:13:15,Monitoring Started,,,,,,System initialized,
+13-03-2025 16:13:15,Window switch,Cursor.exe,main.py - demo - Cursor,,,,Suspicious activity detected,
+13-03-2025 16:13:21,Network Activity,svchost.exe,,5680,192.168.0.102,172.172.255.218,Monitored,Process 'svchost.exe' connected to 172.172.255.218 (Unknown)
+13-03-2025 16:13:25,Mouse Click,,,,,,Mouse Pressed,"(607, 913)"
+13-03-2025 16:13:25,Mouse Click,,,,,,Mouse Released,"(607, 913)"
+13-03-2025 16:13:25,Network Activity,Cursor.exe,,12176,192.168.0.102,104.18.18.125,Monitored,Process 'Cursor.exe' connected to 104.18.18.125 (Unknown)
+13-03-2025 16:13:25,Network Activity,mysqld.exe,,6784,127.0.0.1,127.0.0.1,Monitored,Process 'mysqld.exe' connected to 127.0.0.1 (kubernetes.docker.internal)
+13-03-2025 16:13:30,Network Activity,SearchHost.exe,,12292,192.168.0.102,40.104.56.210,Monitored,Process 'SearchHost.exe' connected to 40.104.56.210 (Unknown)
+13-03-2025 16:13:35,Network Activity,backgroundTaskHost.exe,,19028,192.168.0.102,52.98.34.194,Monitored,Process 'backgroundTaskHost.exe' connected to 52.98.34.194 (Unknown)
+13-03-2025 16:13:35,Mouse Click,,,,,,Mouse Pressed,"(1034, 1054)"
+13-03-2025 16:13:35,Mouse Click,,,,,,Mouse Released,"(1034, 1054)"
+13-03-2025 16:13:39,Network Activity,Cursor.exe,,12176,192.168.0.102,104.18.19.125,Monitored,Process 'Cursor.exe' connected to 104.18.19.125 (Unknown)
+13-03-2025 16:13:39,Mouse Click,,,,,,Mouse Pressed,"(1268, 0)"
+13-03-2025 16:13:39,Mouse Click,,,,,,Mouse Released,"(1250, 109)"
+13-03-2025 16:13:44,Network Activity,Unknown,,19028,192.168.0.102,20.42.73.24,Monitored,Process 'Unknown' connected to 20.42.73.24 (Unknown)
+13-03-2025 16:13:44,Mouse Click,,,,,,Mouse Pressed,"(1234, 637)"
+13-03-2025 16:13:44,Mouse Click,,,,,,Mouse Released,"(1234, 637)"
+13-03-2025 16:13:48,Network Activity,StartMenuExperienceHost.exe,,14740,192.168.0.102,20.24.249.45,Monitored,Process 'StartMenuExperienceHost.exe' connected to 20.24.249.45 (Unknown)
+13-03-2025 16:13:48,Mouse Click,,,,,,Mouse Pressed,"(1829, 80)"
+13-03-2025 16:13:48,Mouse Click,,,,,,Mouse Released,"(1829, 80)"
+13-03-2025 16:13:49,Network Activity,Cursor.exe,,13932,192.168.0.102,18.211.45.51,Monitored,Process 'Cursor.exe' connected to 18.211.45.51 (ec2-18-211-45-51.compute-1.amazonaws.com)
+13-03-2025 16:13:49,Network Activity,Unknown,,17208,192.168.0.102,163.70.144.61,Monitored,Process 'Unknown' connected to 163.70.144.61 (whatsapp-chatd-edge-shv-02-bom2.facebook.com)
+13-03-2025 16:13:51,Mouse Click,,,,,,Mouse Pressed,"(1021, 1046)"
+13-03-2025 16:13:51,Network Activity,brave.exe,,8548,192.168.0.102,142.250.182.206,Monitored,Process 'brave.exe' connected to 142.250.182.206 (bom07s28-in-f14.1e100.net)
+13-03-2025 16:13:55,Mouse Click,,,,,,Mouse Released,"(1021, 1046)"
+13-03-2025 16:13:55,Network Activity,WhatsApp.exe,,6476,192.168.0.102,163.70.143.60,Monitored,Process 'WhatsApp.exe' connected to 163.70.143.60 (whatsapp-cdn-shv-01-bom2.fbcdn.net)
+13-03-2025 16:13:55,Network Activity,WhatsApp.exe,,6476,192.168.0.102,157.240.242.60,Monitored,Process 'WhatsApp.exe' connected to 157.240.242.60 (whatsapp-cdn-shv-01-pnq1.fbcdn.net)
+13-03-2025 16:14:00,Network Activity,WhatsApp.exe,,6476,192.168.0.102,1.23.32.35,Monitored,Process 'WhatsApp.exe' connected to 1.23.32.35 (Unknown)
+13-03-2025 16:14:00,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'m'
+13-03-2025 16:14:00,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'o'
+13-03-2025 16:14:00,Network Activity,WhatsApp.exe,,6476,192.168.0.102,57.144.177.32,Monitored,Process 'WhatsApp.exe' connected to 57.144.177.32 (whatsapp-cdn-shv-04-bom2.fbcdn.net)
+13-03-2025 16:14:00,Network Activity,WhatsApp.exe,,6476,192.168.0.102,163.70.144.60,Monitored,Process 'WhatsApp.exe' connected to 163.70.144.60 (whatsapp-cdn-shv-02-bom2.fbcdn.net)
+13-03-2025 16:14:00,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'h'
+13-03-2025 16:14:00,Network Activity,WhatsApp.exe,,6476,192.168.0.102,157.240.16.52,Monitored,Process 'WhatsApp.exe' connected to 157.240.16.52 (whatsapp-cdn-shv-01-bom1.fbcdn.net)
+13-03-2025 16:14:00,Network Activity,WhatsApp.exe,,6476,192.168.0.102,57.144.125.32,Monitored,Process 'WhatsApp.exe' connected to 57.144.125.32 (whatsapp-cdn-shv-03-bom2.fbcdn.net)
+13-03-2025 16:14:00,Network Activity,WhatsApp.exe,,6476,192.168.0.102,31.13.79.53,Monitored,Process 'WhatsApp.exe' connected to 31.13.79.53 (whatsapp-cdn-shv-02-bom1.fbcdn.net)
+13-03-2025 16:14:00,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'a'
+13-03-2025 16:14:00,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'m'
+13-03-2025 16:14:02,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'a'
+13-03-2025 16:14:02,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'f'
+13-03-2025 16:14:02,Network Activity,servicehost.exe,,5536,192.168.0.102,23.217.111.208,Monitored,Process 'servicehost.exe' connected to 23.217.111.208 (a23-217-111-208.deploy.static.akamaitechnologies.com)
+13-03-2025 16:14:05,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,Key.ctrl_l
+13-03-2025 16:14:05,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,Key.backspace
+13-03-2025 16:14:05,Keypress,ApplicationFrameHost.exe,WhatsApp,,,,Key pressed,'\x01'
+13-03-2025 16:14:15,Mouse Click,,,,,,Mouse Pressed,"(1824, 62)"
+13-03-2025 16:14:15,Mouse Click,,,,,,Mouse Released,"(1824, 62)"
+13-03-2025 16:14:15,Mouse Click,,,,,,Mouse Pressed,"(900, 871)"
+13-03-2025 16:14:15,Mouse Click,,,,,,Mouse Released,"(900, 871)"
+13-03-2025 16:14:15,Keypress,Cursor.exe,main.py - demo - Cursor,,,,Key pressed,Key.esc
+13-03-2025 16:14:15,Termination requested,Cursor.exe,main.py - demo - Cursor,,,,Terminating,Termination key pressed
